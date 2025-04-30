@@ -1,7 +1,7 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM:
 
-Implementation of Sliding window protocol.
+To write a python program for implementation of Sliding window protocol.
 
 ## ALGORITHM:
 1. Start the program.
